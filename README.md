@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java**
 
+- 👨‍💻 All of my projects are available at [miyurifolio.infinityfreeapp.com](miyurifolio.infinityfreeapp.com)
+
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **miyurilokuhewage15@gmail.com**
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dev.to/miyuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/miyuri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miyuri madubhashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miyuri madubhashi" height="30" width="40" /></a>
 <a href="https://fb.com/miyuri lokuhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miyuri lokuhewage" height="30" width="40" /></a>
 <a href="https://instagram.com/miyuri lokuhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miyuri lokuhewage" height="30" width="40" /></a>
@@ -27,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miyuri15&show_icons=true&locale=en&layout=compact" alt="miyuri15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miyuri15&show_icons=true&locale=en" alt="miyuri15" /></p>
-
