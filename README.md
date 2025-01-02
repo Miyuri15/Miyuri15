@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyuri15&label=Profile%20views&color=0e75b6&style=flat" alt="miyuri15" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [miyurifolio.infinityfreeapp.com](miyurifolio.infinityfreeapp.com)
 
