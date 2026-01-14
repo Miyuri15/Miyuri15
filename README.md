@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [miyurifolio.infinityfreeapp.com](miyurifolio.infinityfreeapp.com)
+- 👨‍💻 All of my projects are available at https://miyuri-portfolio.vercel.app/
 
 - 💬 Ask me about **Programming**
 
